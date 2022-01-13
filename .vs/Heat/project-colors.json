@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2bef5471-05c5-4593-9e5f-a6d426f9242c": {
+      "ProjectGuid": "2bef5471-05c5-4593-9e5f-a6d426f9242c",
+      "DisplayName": "Heat",
+      "ColorIndex": 0
+    },
+    "437ae49f-4b09-4f70-82ad-139e557fc04b": {
+      "ProjectGuid": "437ae49f-4b09-4f70-82ad-139e557fc04b",
+      "DisplayName": "Sandbox",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
